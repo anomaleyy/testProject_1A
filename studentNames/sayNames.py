@@ -1,6 +1,7 @@
 
 students = [
     "Mr. Pace",
+    "Haley",
     
     
     
